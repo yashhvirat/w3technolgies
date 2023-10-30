@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.w3technologies.W3AssignmentProjectApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.083 s - in com.w3technologies.W3AssignmentProjectApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.958 s - in com.w3technologies.W3AssignmentProjectApplicationTests
