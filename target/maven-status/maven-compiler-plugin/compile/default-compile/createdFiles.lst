@@ -1,0 +1,10 @@
+com\w3technologies\W3AssignmentProjectApplication.class
+com\w3technologies\controller\SignUpController.class
+com\w3technologies\controller\MainController.class
+com\w3technologies\service\ProductServiceImpl.class
+com\w3technologies\repository\ProductRepository.class
+com\w3technologies\repository\UserRepository.class
+com\w3technologies\model\Product.class
+com\w3technologies\service\ProductService.class
+com\w3technologies\model\User.class
+com\w3technologies\controller\SignInController.class
